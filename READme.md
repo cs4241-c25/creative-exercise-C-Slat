@@ -1,4 +1,6 @@
+## Canvas Sample Page
 http://creative-exercise-C-Slat.glitch.me
+
 I implemented Canvas!
 
 Links that based my code:
